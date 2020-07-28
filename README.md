@@ -1,7 +1,7 @@
 # material_green_i3
 ## Preview:
 
-![Preview](s2.gif)
+![Preview](preview.png)
 
 ## Things to remember:
 * The status bar is *tint2* and it uses the given *tint2rc*.
@@ -15,6 +15,8 @@
 ## The bar:
 ![Tint2 Bar](tint2_bar.png)
 * The tint2 bar is running the *multistat* script for status.
+* Scroll for adjusting volume.
+* Left and right click for switching workspaces.
 
 ## Programs required:
 * Rofi

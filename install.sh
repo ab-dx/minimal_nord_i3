@@ -12,3 +12,4 @@ cp modList /bin/modList
 cp music.sh ~/music.sh
 cp ~/.config/tint2/tint2rc ~/.config/tint2/tint2rc.bak 
 cp tint2rc ~/.config/tint2/tint2rc
+cp screencast_start /bin/screencast_start
