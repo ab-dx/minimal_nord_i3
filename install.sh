@@ -11,5 +11,8 @@ cp toDo /bin/toDo
 cp modList /bin/modList
 cp music.sh ~/music.sh
 cp ~/.config/tint2/tint2rc ~/.config/tint2/tint2rc.bak 
-cp tint2rc ~/.config/tint2/tint2rc
+cp tint2rc_split ~/.config/tint2/tint2rc
 cp screencast_start /bin/screencast_start
+cp info.sh ~/info.sh
+cp musicstat.sh ~/musicstat.sh
+cp time.sh ~/time.sh
