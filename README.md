@@ -1,7 +1,8 @@
-# material_green_i3
+#Minimal Nord i3 
 ## Preview:
 
 ![Preview](preview.png)
+![Preview](preview2.png)
 
 ## Things to remember:
 * The status bar is *tint2* and it uses the given *tint2rc_split*.
